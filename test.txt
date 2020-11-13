@@ -1,1 +1,6 @@
-test.txt
+Today's topic learn git with commands.
+
+Understand git concepts
+
+
+Try again
